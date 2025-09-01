@@ -27,16 +27,7 @@
 - **📤 Data Export** - Export library data in JSON/CSV formats
 - **🔗 Social Sharing** - Share your gaming achievements with friends
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="docs/screenshot-dashboard.png" alt="Main Dashboard" width="45%">
-  <img src="docs/screenshot-game-details.png" alt="Game Details" width="45%">
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -64,8 +55,8 @@
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/steam-showcase.git
-cd steam-showcase
+git clone https://github.com/TheGameisYash/SteamShowcaseImproved.git
+cd SteamShowcaseImproved
 
 text
 
@@ -97,34 +88,7 @@ npm run preview
 
 text
 
----
 
-## 📁 Project Structure
-
-src/
-├── components/ # Vue components
-│ ├── Scene3D.vue # 3D background effects
-│ ├── GameCard.vue # Game display cards
-│ ├── Analytics.vue # Statistics dashboard
-│ └── ...
-├── composables/ # Vue composables
-│ ├── useLazyLoading.js
-│ ├── useWebAudio.js
-│ └── ...
-├── services/ # API services
-│ ├── steamApi.js # Steam Web API
-│ ├── aiEngine.js # AI recommendations
-│ └── ...
-├── assets/ # Static assets
-└── styles/ # CSS files
-
-public/
-├── icons/ # PWA icons
-└── sounds/ # Audio files (optional)
-
-text
-
----
 
 ## 🎯 Usage
 
@@ -274,9 +238,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/steam-showcase/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/steam-showcase/discussions)
+- 📧 **Email**: [thegameisyash@example.com](mailto:thegameisyash@example.com)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/TheGameisYash/SteamShowcaseImproved/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/TheGameisYash/SteamShowcaseImproved/discussions)
 
 ---
 
@@ -284,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful! ⭐**
 
-*Built with ❤️ by developers, for gamers*
+*Built with ❤️ by TheGameisYash*
 
 </div>
 
@@ -292,12 +256,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/steam-showcase)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/steam-showcase)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/steam-showcase)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/steam-showcase)
-![GitHub license](https://img.shields.io/github/license/yourusername/steam-showcase)
+![GitHub repo size](https://img.shields.io/github/repo-size/TheGameisYash/SteamShowcaseImproved)
+![GitHub stars](https://img.shields.io/github/stars/TheGameisYash/SteamShowcaseImproved)
+![GitHub forks](https://img.shields.io/github/forks/TheGameisYash/SteamShowcaseImproved)
+![GitHub issues](https://img.shields.io/github/issues/TheGameisYash/SteamShowcaseImproved)
+![GitHub license](https://img.shields.io/github/license/TheGameisYash/SteamShowcaseImproved)
 
 ---
 
-> **Note**: Replace `yourusername` with your actual GitHub username and update the email and links accordingly.
+> **Made with passion for gaming and clean code by [TheGameisYash](https://github.com/TheGameisYash)**
